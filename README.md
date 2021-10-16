@@ -20,7 +20,7 @@
 
 主办方：OPPO, VIVO
 
-决赛路演视频: [Video](ttps://wx.vzan.com/live/tvchat-1109209365?shauid=8LnmgfEev_vflZjw-fcJfw**&vprid=0&sharetstamp=1632809036173)
+决赛路演视频: [Video](https://wx.vzan.com/live/tvchat-1109209365?shauid=8LnmgfEev_vflZjw-fcJfw**&vprid=0&sharetstamp=1632809036173)
 
 - AI-based Channel Estimation(信道估计) https://www.datafountain.cn/competitions/504
 
